@@ -14,16 +14,16 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements- The first step is gathering user requirements and the documenting user needs and system requirements.
-Design-Creating and drafting a high-level and detailed designs of the software architecture and user interface.
-Implementation-Based on the design specification we write the code to meet this specfications.
-Testing-This is the testing the software to ensure good quality and it meets functional requirements.
-Deployment of the Software is the fifth step where you realse the software for userds to use.
-Maintenance is the final stage where we provide support the user when using the solution, updates such security and functionalty ,and enhancement after deployment
+1.Requirements- The first step is gathering user requirements and the documenting user needs and system requirements.
+2.Design-Creating and drafting a high-level and detailed designs of the software architecture and user interface.
+3.Implementation-Based on the design specification we write the code to meet this specfications.
+4.Testing-This is the testing the software to ensure good quality and it meets functional requirements.
+5.Deployment of the Software is the fifth step where you realse the software for userds to use.
+6.Maintenance is the final stage where we provide support the user when using the solution, updates such security and functionalty ,and enhancement after deployment
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is a sequential process which follows a linear and sequentail approach where each phase (requirements, design, implementation, testing, deployment, and maintenance) must be completed first before moving to the next.
-Agile methodologies is a iterative process where the project developnment is broken down into small and manageable units.
+1. Waterfall is a sequential process which follows a linear and sequentail approach where each phase (requirements, design, implementation, testing, deployment, and maintenance) must be completed first before moving to the next.
+2.Agile methodologies is a iterative process where the project developnment is broken down into small and manageable units.
 Scenarios for Waterfall and Agile Methodologies; 
 Waterfall
 Example Scenario: Developing a governmental system for processing legal documentation. This project has well-defined requirements that are unlikely to change, and regulatory compliance requires extensive documentation. The sequential nature of Waterfall ensures that all legal and compliance requirements are met before moving forward.
@@ -88,8 +88,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: "Can you help me with this project?"
 Improved Prompt: "Can you assist me with creating a project timeline that includes key milestones for the software development lifecycle, specifically focusing on the design and testing phases?"
-Explanation of the Improvement: 
-Clarity:The vague prompt, "Can you help me with my project?" lacks details, making it unclear what kind of help is needed. The improved prompt clearly specifies that help is required with creating a project timeline, removing any ambiguity.
+Explanation of the Improvement: Clarity:The vague prompt, "Can you help me with my project?" lacks details, making it unclear what kind of help is needed. The improved prompt clearly specifies that help is required with creating a project timeline, removing any ambiguity.
 Specificity:The original prompt does not specify what part of the project needs assistance. In the improved prompt, the user specifies that they need help with key milestones, particularly for the design and testing phases. This directs the response toward a particular aspect of the project.
 Conciseness:Although the improved prompt is longer, it is concise in terms of delivering a focused request. It avoids unnecessary information and directly communicates the needs, making it easier for the responder to understand and address the request.
 Why the Improved Prompt is More Effective
